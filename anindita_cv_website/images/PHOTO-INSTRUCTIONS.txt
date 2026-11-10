@@ -1,0 +1,1 @@
+Add Anindita's photograph to this folder and name it replace-with-your-photo.jpg, or update the image src in index.html to match your photo filename.
